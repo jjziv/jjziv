@@ -10,7 +10,7 @@
 --- | --- | --- | ---
 ![](https://media.giphy.com/media/r5I1QKdX3bSCY/giphy.gif) | ![](https://media.giphy.com/media/e5kbmb3wX3J1S/giphy.gif) | ![](https://media.giphy.com/media/NUwoRZzHc2Bws/giphy.gif) | ![](https://media.giphy.com/media/5B4Dl7V8cFaYo/giphy.gif)
 
-If you have any better suggestions, feel free to suggest one ![here](https://github.com/jjziv/jjziv/issues/new)!
+If you have any better suggestions, feel free to suggest one [here](https://github.com/jjziv/jjziv/issues/new)!
 
 <!--
 **jjziv/jjziv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
